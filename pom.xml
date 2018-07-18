@@ -4,7 +4,7 @@
 
     <groupId>dummy-org-module1</groupId>
     <artifactId>dummy-module1</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <properties>
         <dummy.version>${project.version}</dummy.version>
